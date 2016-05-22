@@ -1,9 +1,17 @@
 body {
   background: #999;
   font-family: arial;
+  font-size:14;
 }
 
 h1 {
   color: #333;
 }
+
+p {
+  color: black;
+  font-family: tahoma;
+  font-size: 11;
+}
+
 
