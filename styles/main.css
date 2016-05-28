@@ -1,17 +1,25 @@
-body {
-  background: #999;
-  font-family: arial;
-  font-size:14;
+.title {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    {
+
+.h1 {
+    font-family:arial;
+    font-size:20px;
 }
 
-h1 {
-  color: #333;
-}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    {
 
-p {
-  color: black;
-  font-family: tahoma;
-  font-size: 11;
-}
+
+
 
 
