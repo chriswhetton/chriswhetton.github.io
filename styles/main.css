@@ -1,23 +1,41 @@
-.title {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px;
-    {
-
-.h1 {
-    font-family:arial;
-    font-size:20px;
+html {
+    background: url(../images/mountain.jpg) no-repeat center fixed;
+    background-size: cover;
 }
 
-.footer {
-    background-color:black;
-    color:white;
-    clear:both;
-    text-align:center;
-    padding:5px;
-    {
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding:10;
+    width: 150px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    text-shadow:
+}
+
+h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-family: 'Century', sans-serif;
+    font-style: normal;
+    color: #333;
+}
+
+footer {
+
+
+}
+
 
 
 
