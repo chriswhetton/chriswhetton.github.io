@@ -1,0 +1,53 @@
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background color: #333:
+}
+
+
+ li {
+    display: inline;
+}
+
+
+.nav ul li {
+    float: left;
+    margin-left 30px;
+    line-height: 40px;
+}
+
+.nav a {
+    display: block;
+    padding: 8px;
+    background-color:
+}
+
+.container {
+    margin-top: 50px;
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+.homephoto img{
+    max-width: 100%;
+    height; auto;
+   -moz-border-radius: 200px;
+   -webkit-border-radius: 200px;
+    border-radius: 200px;
+}
+
+
+
+}
+
+.intro{
+
+}
